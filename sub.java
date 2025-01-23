@@ -1,1 +1,1 @@
-some front end changes are subtracted 
+some front end changes are 
