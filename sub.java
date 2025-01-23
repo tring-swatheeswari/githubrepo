@@ -1,1 +1,1 @@
-some front end changes are subtracted 
+Sample text
